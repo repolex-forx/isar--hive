@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/isar/hive/commit/1b4febe967370f790759823a5e154adc383e53d3",
       "git:hexsha": "1b4febe967370f790759823a5e154adc383e53d3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.0.0-dev.2"
     },
     {
