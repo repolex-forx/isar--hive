@@ -1,0 +1,11 @@
+{
+  "org": "isar",
+  "repo": "hive",
+  "versions": [
+    {
+      "commit": "1b4febe967370f790759823a5e154adc383e53d3",
+      "tag": "4.0.0-dev.2",
+      "parsed_at": "2026-11-09T15:32:39.972834+00:00"
+    }
+  ]
+}
